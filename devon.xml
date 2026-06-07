@@ -16,7 +16,7 @@
     <project name="proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" remote="TheMuppets" revision="lineage-23.2"/>
     
     <!-- kernel -->
-    <project name="android_kernel_motorola_sm6225" path="kernel/motorola/sm6225" remote="Dinax" revision="lineage-23.2"/>
+    <project name="android_kernel_motorola_sm6225" path="kernel/motorola/sm6225" remote="Dinax" revision="lineage-23.2_KSUN-SUSFS"/>
 
     <!-- hardware -->
     <project name="android_hardware_motorola" path="hardware/motorola" remote="LineageOS" revision="lineage-23.2"/>
